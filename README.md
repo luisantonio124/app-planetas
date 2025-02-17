@@ -1,6 +1,6 @@
-# myapp
+# App Planetas
 
-A new Flutter project.
+Esse é o projeto planetas, desenvolvido por Luis Antonio Komar, para concluir a atividade da disciplina 12 do curso talento tech
 
 ## Getting Started
 
